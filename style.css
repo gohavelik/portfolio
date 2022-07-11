@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(72, 117, 54);
+}
+.backplate-img {
+    width: 375px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.hrefs {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+.git-url {
+
+    /* position: absolute; */
+}
